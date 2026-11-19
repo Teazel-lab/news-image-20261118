@@ -51,7 +51,7 @@ def main():
     img = Image.new("RGB", (W, H), NAVY)
     d = ImageDraw.Draw(img)
 
-    f_mast = font(SERIF_B, 52)
+    f_mast = font(SERIF_B, 54)
     f_date = font(SANS, 18)
     f_kicker = font(SANS_B, 13)
     f_head_l = font(SERIF_B, 32)

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copies entry.png beside this script to /output/entry.png for the make.fun grader.
 import os
 import shutil
 
